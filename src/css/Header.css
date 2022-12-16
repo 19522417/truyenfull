@@ -1,0 +1,96 @@
+.header {
+    width: 100%;
+    padding: 3rem 0;
+    display: flex;
+    justify-content: space-between;
+}
+nav {
+    width: 40%;
+}
+
+.main-nav {
+    display: flex;
+    justify-content:  space-between;
+}
+
+h1.logo {
+    font-size: var(--fs-large);
+}
+a{
+    text-decoration: none;
+    color:inherit;
+    transition: all 0.7s;
+}
+a:hover {
+    color: var(--color-light-blue);
+    /* color: rgb(15, 12, 84); */
+}
+
+ul {
+    list-style: none;
+}
+span.user-name {
+    color: var(--color-light-blue);
+}
+/* .wrap { */
+    /* display: flex;
+    align-items: center; */
+    /* margin-top: 100px;
+    margin-left: 24%;
+    margin-right: 20%;
+    margin-bottom: 100px;
+} */
+/* .colm1{
+    margin-left: 5%;
+}
+.colm2 {
+    margin-left: 5%;
+}
+.colm3 {
+    margin-left: 5%;
+}
+.colm4 {
+    margin-left: 5%;
+} */
+
+/* .img-jieyao {
+    width: 30%;
+}
+.img-saye {
+    width: 50%;
+} */
+/* .img {
+    margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+} 
+.img:hover {
+    border: 1px solid #777;
+} */
+/* .img {
+    width: 70%;
+    display: block;
+    cursor: pointer;
+}
+.name {
+    font-size: 17px;
+    color: var(--color-light-grey);
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.row1 {
+    display: flex;
+    align-items: center;
+}
+.row2 {
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+} */
+.menu {
+    display: flex;
+    
+}

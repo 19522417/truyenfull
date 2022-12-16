@@ -1,0 +1,56 @@
+.storytitle {
+    margin-top: 50px;
+    font-size: 20px;
+}
+.storylist {
+    margin-top: 70px;
+    font-size: 20px;
+}
+.storyname {
+    text-align: center;
+    font-size: 40px;
+    cursor: pointer;
+}
+hr {
+    margin-top: 20px;
+    background: rgb(173, 169, 169);
+    color: rgb(173, 169, 169);
+    /* borderColor: rgb(173, 169, 169); */
+    height: '2px';
+}
+.pic {
+    width: 100%;
+}
+.descrip {
+    margin-left: 50px;
+    width: 60%;
+}
+.summary {
+    margin-top: 20px;
+}
+.wrap {
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+}
+.wrap-list {
+    display: flex;
+    width: 100%;
+    margin-top: 30px;
+
+}
+.list {
+    line-height: 36px;
+    text-align: justify;
+    cursor: pointer;
+}
+.descrip-list {
+    width: 50%;
+}
+.paragraph {
+    padding: 8px 0;
+    line-height: 24px;
+}
+.pic-story {
+    width: 40%;
+}
